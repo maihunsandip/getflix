@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/getflix/static/css/main.72b9a95c.css",
+    "main.js": "/getflix/static/js/main.30a4aae3.js",
+    "index.html": "/getflix/index.html",
+    "static/media/search.svg": "/getflix/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.72b9a95c.css.map": "/getflix/static/css/main.72b9a95c.css.map",
+    "main.30a4aae3.js.map": "/getflix/static/js/main.30a4aae3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72b9a95c.css",
+    "static/js/main.30a4aae3.js"
+  ]
+}
